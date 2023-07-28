@@ -10,7 +10,8 @@
                 "/usr/lib/gcc/x86_64-linux-gnu/11/include",
                 "/usr/local/include",
                 "/usr/include/x86_64-linux-gnu",
-                "/usr/include"
+                "/usr/include",
+                "/usr/lib/gcc/x86_64-linux-gnu/11/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
